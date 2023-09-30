@@ -7,8 +7,6 @@
   
 
 - 🔭 I’m currently learningfile:
-
-- im currently doing alx (file:///C:/Users/Admin/Downloads/Transcript.pdf)
   
 
 - 🌱 I’m currently learning python and vuejs  
