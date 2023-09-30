@@ -6,7 +6,9 @@
 ### <div align="center">I'm Ruth a full-time React developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently learning  
+- 🔭 I’m currently learningfile:
+
+- im currently doing alx (file:///C:/Users/Admin/Downloads/Transcript.pdf)
   
 
 - 🌱 I’m currently learning python and vuejs  
